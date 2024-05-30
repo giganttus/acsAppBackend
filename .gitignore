@@ -1,0 +1,4 @@
+#Ignore all sec based files
+*.env
+*.log
+.vscode/settings.json
